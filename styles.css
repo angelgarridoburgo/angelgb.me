@@ -13,8 +13,8 @@ html {
     --background: #1c1c1c;
     --foreground: #fafafa;
     --lighter: #cecece;
-    --links: #557df8;
-    --visited: #2a68af;
+    --links: royalblue;
+    --visited: #6083eb;
   }
 }
 
