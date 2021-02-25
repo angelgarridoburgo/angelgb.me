@@ -5,7 +5,7 @@ html {
   --foreground: #1c1c1c;
   --ligther: #444444;
   --links: royalblue;
-  --visited: slateblue;
+  --visited: rgb(252, 247, 0);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -14,7 +14,7 @@ html {
     --foreground: #fafafa;
     --lighter: #cecece;
     --links: #557df8;
-    --visited: #7d6de6;
+    --visited: #2a68af;
   }
 }
 
