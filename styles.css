@@ -1,17 +1,17 @@
 /* Color variables for light and dark */
 
 html {
-  --background: #fafafa;
+  --background: #1c1c1c;
   --foreground: #1c1c1c;
   --ligther: #444444;
   --links: royalblue;
-  --visited: rgb(252, 247, 0);
+  --visited: #6083eb;
 }
 
 @media (prefers-color-scheme: dark) {
   html {
     --background: #1c1c1c;
-    --foreground: #fafafa;
+    --foreground: #1c1c1c;
     --lighter: #cecece;
     --links: royalblue;
     --visited: #6083eb;
