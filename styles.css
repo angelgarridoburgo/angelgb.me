@@ -1,7 +1,7 @@
 /* Color variables for light and dark */
 
 html {
-  --background: #1c1c1c;
+  --background: #fafafa;
   --foreground: #1c1c1c;
   --ligther: #444444;
   --links: royalblue;
@@ -11,7 +11,7 @@ html {
 @media (prefers-color-scheme: dark) {
   html {
     --background: #1c1c1c;
-    --foreground: #1c1c1c;
+    --foreground: #fafafa;
     --lighter: #cecece;
     --links: royalblue;
     --visited: #6083eb;
