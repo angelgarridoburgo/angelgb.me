@@ -13,8 +13,8 @@ html {
     --background: #1c1c1c;
     --foreground: #fafafa;
     --lighter: #cecece;
-    --links: royalblue;
-    --visited: #6083eb;
+    --links: #0077B5;
+    --visited: rgb(138, 200, 238);
   }
 }
 
